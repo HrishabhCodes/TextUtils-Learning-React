@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+
+.form-check-label {
+  padding-right: 100px;
+}
+
+.navbar-light {
+  background-color: rgb(238, 238, 238) !important;
+}
+
+.themes {
+  position: relative;
+  left: 42%;
+  margin: 10px;
+}
+
+.color-btns {
+  position: relative;
+  height: 30px;
+  width: 30px;
+  border-radius: 40px;
+  margin: 3px 15px;
+  border: 1px solid black !important;
+}
+
+.btn-dark:hover {
+  background-color: rgb(43, 43, 43);
+}
+
+.btn-light:hover {
+  background-color: rgb(235, 235, 235);
+}
